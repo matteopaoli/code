@@ -1,0 +1,3 @@
+/*! banner is a function */
+
+/*! banner is a string */
